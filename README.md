@@ -7,7 +7,7 @@ Our code is based on [mindcv](https://github.com/mindspore-lab/mindcv). Installa
 `python pretrain.py -c amt_b_16_224_pretrain_ascend.yaml` 
 
 ## Finetune
-`python pretrain.py -c amt_b_16_224_finetune_ascend.yaml` 
+`python finetune.py -c amt_b_16_224_finetune_ascend.yaml` 
 
 
 ## Loss log for pretrain
